@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **pysohelrana411@gmail.com**
+- 📫 Contact Me **pysohelrana411@gmail.com**
 
 - ⚡ Fun fact **I am funny😜**
 
