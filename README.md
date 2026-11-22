@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sohel Rana</h1>
 <h3 align="center">A passionate Web developer from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**,**Django**
 
 - 📫 Contact Me **pysohelrana411@gmail.com**
 
